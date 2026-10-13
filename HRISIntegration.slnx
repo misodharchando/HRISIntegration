@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/HRIS.Domain/HRIS.Domain.csproj" />
+  <Project Path="src/HRIS.Application/HRIS.Application.csproj" />
+  <Project Path="src/HRIS.Infrastructure/HRIS.Infrastructure.csproj" />
+  <Project Path="src/HRIS.Api/HRIS.Api.csproj" />
+  <Project Path="tests/HRIS.Tests/HRIS.Tests.csproj" />
+</Solution>
